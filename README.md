@@ -4,7 +4,6 @@ Welcome to my profile!
 
 <h3>I'm **Gabriela Campos** a **Software Engineer** based in Orange County, CA.</h3>
 
-Welcome to my profile! 
 
 - 📫 You can reach me at gabycamposcontact@gmail.com
 - 👯 I’m looking to collaborate on more projects in 2021 to continue contributing and learning from others.
@@ -14,8 +13,8 @@ Welcome to my profile!
 ### Connect with me: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112598-a5f86f80-851d-11eb-9f4a-e4e4defab0ba.png" alt="angelsanchez" height="40" width="40" /></a>
-<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112620-ad1f7d80-851d-11eb-86b1-e953875b3e68.png" alt="sanchez27_angel" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriela-campos-ba736b130" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112598-a5f86f80-851d-11eb-9f4a-e4e4defab0ba.png" alt="angelsanchez" height="40" width="40" /></a>
+<a href="https://twitter.com/gc_codes" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112620-ad1f7d80-851d-11eb-86b1-e953875b3e68.png" alt="sanchez27_angel" height="40" width="40" /></a>
 </p>
 
 ## Skills
