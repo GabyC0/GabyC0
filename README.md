@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-<h3>I'm **Gabriela Campos** a **Software Engineer** based in Orange County, CA.</h3>
+<h3>I'm **Gabriela Campos** a Software Engineer based in Orange County, CA.</h3>
 
 
 - 📫 You can reach me at gabycamposcontact@gmail.com
