@@ -14,8 +14,8 @@ Welcome to my profile!
 ### Connect with me: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112598-a5f86f80-851d-11eb-9f4a-e4e4defab0ba.png" alt="angelsanchez" height="30" width="40" /></a>
-<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112620-ad1f7d80-851d-11eb-86b1-e953875b3e68.png" alt="sanchez27_angel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angel-sanchez-a09723190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112598-a5f86f80-851d-11eb-9f4a-e4e4defab0ba.png" alt="angelsanchez" height="40" width="40" /></a>
+<a href="https://twitter.com/sanchez27_angel" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112620-ad1f7d80-851d-11eb-86b1-e953875b3e68.png" alt="sanchez27_angel" height="40" width="40" /></a>
 </p>
 
 ## Skills
@@ -42,10 +42,6 @@ Welcome to my profile!
  
 
 
-[![github](https://user-images.githubusercontent.com/74997368/111112598-a5f86f80-851d-11eb-9f4a-e4e4defab0ba.png)][1]
-[![github](https://user-images.githubusercontent.com/74997368/111112620-ad1f7d80-851d-11eb-86b1-e953875b3e68.png)][2]
-[![github](https://user-images.githubusercontent.com/74997368/111112625-af81d780-851d-11eb-91ff-654dc7900061.png)][3]
-
 [1]: https://www.linkedin.com/in/gabriela-campos-ba736b130
 [2]: https://twitter.com/gc_codes
-[3]: 
+
