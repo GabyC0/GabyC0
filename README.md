@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Welcome to my profile!
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3>I'm **Gabriela Campos** a Software Engineer based in Orange County, CA.</h3>
 
