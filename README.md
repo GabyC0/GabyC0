@@ -16,7 +16,7 @@ Welcome to my profile!
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriela-campos-ba736b130" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112598-a5f86f80-851d-11eb-9f4a-e4e4defab0ba.png" alt="gabyLinkedIn" height="40" width="40" /></a>
 <a href="https://twitter.com/gc_codes" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111112620-ad1f7d80-851d-11eb-86b1-e953875b3e68.png" alt="gabyTwitter" height="40" width="40" /></a>
-<a href="https://gabrielacampos.netlify.app" target="blank"><img align="center" src="https://https://user-images.githubusercontent.com/74997368/111111184-22d61a00-851b-11eb-8823-0fdfe634080b.png" alt="gabyportfolio" height="40" width"40" /></a>
+<a href="https://gabrielacampos.netlify.app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111111184-22d61a00-851b-11eb-8823-0fdfe634080b.png" alt="gabyportfolio" height="40" width"40" /></a>
 </p>
 
 ## Skills
