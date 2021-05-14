@@ -3,7 +3,7 @@
 Welcome to my profile!
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<h3>I'm **Gabriela Campos** a Software Engineer based in Orange County, CA.</h3>
+<h3>I'm **Gabriela Campos** a Software Engineer based in Dos Palos, CA.</h3>
 
 
 - 📫 You can reach me at gabycamposcontact@gmail.com
