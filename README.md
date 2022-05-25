@@ -7,7 +7,7 @@ Welcome to my profile!
 
 
 - 📫 You can reach me at gabycamposcontact@gmail.com
-- 💻 I’m looking to transitioning into Software Engineering in 2022.
+- 💻 I’m looking to transition into Software Engineering in 2022.
 - 💬 Let's learn together! I'm more than happy to help where I can.
 - ⚡ Fun fact: I love to travel 🛫 and can't wait until we can do so safely again. 
 
