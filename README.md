@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-Welcome to my profile!
+Welcome to my GitHub!
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<h3>I'm **Gabriela Campos** a Software Engineer in training based in Dos Palos, CA.</h3>
+<h3>I'm Gabriela Campos a Software Engineer based in California.</h3>
 
 
 - 📫 You can reach me at gabycamposcontact@gmail.com
-- 💻 I’m looking to transition into Software Engineering in 2022.
-- 💬 Let's learn together! I'm more than happy to help where I can.
-- ⚡ Fun fact: I love to travel 🛫 and can't wait until we can do so safely again. 
+- 💻 I’m looking for software development roles.
+- 💬 Feel free to check out my work and reach out.
+- ⚡ Fun fact: I love to travel 🛫 and am always looking for a new adventure. 
 
 ### Connect with me: 
 
@@ -19,10 +19,7 @@ Welcome to my profile!
 <a href="https://gabycampos.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74997368/111111184-22d61a00-851b-11eb-8823-0fdfe634080b.png" alt="gabyportfolio" height="40" width"40" /></a>
 </p>
 
-## Future Skills
- 
-### Frontend
-
+## Technologies
  
 <div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -31,8 +28,6 @@ Welcome to my profile!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 </div>
 
- 
-### Backend
  
 <div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
