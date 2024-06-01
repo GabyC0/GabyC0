@@ -3,11 +3,10 @@
 Welcome to my GitHub!
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-<h3>I'm Gabriela Campos a Software Engineer based in California.</h3>
+<h3>I'm Gabriela Campos a Web Developer based in California.</h3>
 
 
 - 📫 You can reach me at gabycamposcontact@gmail.com
-- 💻 I’m looking for software development roles.
 - 💬 Feel free to check out my work and reach out.
 - ⚡ Fun fact: I love to travel 🛫 and am always looking for a new adventure. 
 
